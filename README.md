@@ -2,8 +2,8 @@
 
 This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-If you use my solution to help you with completing your challenge, I'd love a virtual pat on the back by including me in your acknowledgements! 
 ## Author
+If you use my solution to help you with completing your challenge, I'd love a virtual pat on the back by including me in your acknowledgements! 
 - Frontend Mentor - [@kyleebustamante](https://www.frontendmentor.io/profile/kyleebustamante)
 - GitHub [https://github.com/kyleebustamante](https://github.com/kyleebustamante)
 
