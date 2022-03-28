@@ -16,7 +16,7 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height:100vh;
+    min-height:100vh;
     margin:0px;
 }
 .card{
@@ -66,6 +66,10 @@ body{
     flex-direction: row;
     gap: 10px;
     margin: auto;
+}
+.flex-item{
+    display: flex;   
+    align-items: center;
 }
 .flex-spacing{
     justify-content: space-between;
@@ -130,6 +134,9 @@ a:hover{
 }
 .pb-5{
     padding-bottom: 5px;
+}
+.pl-10{
+    padding-left: 10px;
 }
 .text-white{
     color: var(--white);
